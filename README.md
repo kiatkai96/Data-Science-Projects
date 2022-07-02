@@ -1,2 +1,2 @@
 # Data-Science-Projects
-Collection of Data Science Projects using different techniques
+Collection of Data Science and Data Analysis Projects
